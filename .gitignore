@@ -1,5 +1,6 @@
 build/
 .vs/
+.idea/
 *.png
 *.zip
 .vs/CMake Overview
