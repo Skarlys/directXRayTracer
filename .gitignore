@@ -1,0 +1,16 @@
+build/
+.vs/
+*.png
+*.zip
+.vs/CMake Overview
+.vs/CMakeWorkspaceSettings.json
+.vs/CSE168Embree/v17/.suo
+.vs/CSE168Embree/v17/Browse.VC.db
+.vs/CSE168Embree/v17/ipch/AutoPCH/1b24ee2b99f003a/IMPORTANCEINTEGRATOR.ipch
+.vs/CSE168Embree/v17/ipch/AutoPCH/50daa5131081604d/SCENE.ipch
+.vs/CSE168Embree/v17/ipch/AutoPCH/8d0323c4c893555e/SCENELOADER.ipch
+.vs/CSE168Embree/v17/ipch/AutoPCH/e4c04042210d411f/CLIMAIN.ipch
+.vs/ProjectSettings.json
+.vs/VSWorkspaceState.json
+.vs/cmake.db
+.vs/slnx.sqlite
