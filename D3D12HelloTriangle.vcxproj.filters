@@ -33,6 +33,12 @@
     <ClInclude Include="Win32Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="BottomLevelASGenerator.h" />
+    <ClInclude Include="DXRHelper.h" />
+    <ClInclude Include="RaytracingPipelineGenerator.h" />
+    <ClInclude Include="RootSignatureGenerator.h" />
+    <ClInclude Include="ShaderBindingTableGenerator.h" />
+    <ClInclude Include="TopLevelASGenerator.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -50,6 +56,11 @@
     <ClCompile Include="Win32Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BottomLevelASGenerator.cpp" />
+    <ClCompile Include="RaytracingPipelineGenerator.cpp" />
+    <ClCompile Include="RootSignatureGenerator.cpp" />
+    <ClCompile Include="ShaderBindingTableGenerator.cpp" />
+    <ClCompile Include="TopLevelASGenerator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="shaders.hlsl">
