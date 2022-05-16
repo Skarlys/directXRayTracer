@@ -15,3 +15,4 @@ build/
 .bin/x64
 **/bin/
 **vs/
+**obj/
