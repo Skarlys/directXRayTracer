@@ -11,3 +11,5 @@ build/
 .vs/D3D12HelloTriangle/v17
 .vs/D3D12HelloTriangle/v17
 .vs/D3D12HelloTriangle/v17/*
+.bin/x64/
+.bin/x64
